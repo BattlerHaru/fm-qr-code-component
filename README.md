@@ -6,13 +6,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 1. [Overview.](#overview)
 2. [Preview.](#📸-preview)
-3. [Links.](#🔗-links)
-4. [Getting Started.](#🚀-getting-started)
-5. [Features.](#✨-features)
+3. [Getting Started.](#🚀-getting-started)
+4. [Features.](#✨-features)
    - [Built with.](#✅-built-with)
-6. [What I learned.](#💡-what-i-learned)
-7. [Continued development.](#🔮-continued-development)
-8. [Acknowledgments.](#🙌-acknowledgments)
+5. [What I learned.](#💡-what-i-learned)
+6. [Continued development.](#🔮-continued-development)
+7. [Acknowledgments.](#🙌-acknowledgments)
 
 ## Overview
 
@@ -21,11 +20,6 @@ Recreated a QR code component from a Figma design using only HTML and CSS, focus
 ## 📸 Preview
 
 ![qr-code-component](./screenshot.webp)
-
-### 🔗 Links
-
-- Solution URL: []()
-- Live Site URL: []()
 
 ## 🚀 Getting Started
 
