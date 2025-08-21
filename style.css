@@ -36,6 +36,7 @@ body {
   width: 320px;
   height: 499px;
   gap: 24px;
+  box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.0477);
 }
 
 .card__qr-wrapper {
